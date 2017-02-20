@@ -16,7 +16,7 @@
     "@types/electron": "^1.4.27",
     "@types/q": "0.0.32",
     "electron": "^1.4.8",
-    "electron-builder": "^8.6.0"
+    "electron-builder": "^13.11.1"
   },
   "dependencies": {
     "q": "^1.4.1"
